@@ -1,2 +1,2 @@
 # internetsmash
-My website's scripts
+All js and css files of internetsmash
